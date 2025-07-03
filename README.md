@@ -1,138 +1,104 @@
-<h1 align="center">Hi , I'm Mohamed Reda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Back-End+.NET+Developer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
-</p>
+<div align="center">
 
+## Hey, I'am Mohamed Reda! 👋🏻
+
+</div>
+<div align="center">
+<img align="center" alt="Coding" width="400" src="Code.gif"/>
+</div>
+
+<h4 align="center">A third year Computer Engineering student who is looking for a challenging position that will effectively build my experience</h4>
+
+<div align="center" >
+<img src="https://komarev.com/ghpvc/?username=nouralmulhem&label=Profile%20views&color=1c7300&style=flat-square" alt="nouralmulhem" /> 
+<a href="https://drive.google.com/file/d/1d6R3tT5XPRVCZ6Ix2cB2J1FwmSYTWMXH/view?usp=sharing" target="_blank" rel="noreferrer">
+<img alt="Static Badge" src="https://img.shields.io/badge/nour_almulhem-Resume-8A2BE2?style=flat-square&color=1c7300">
+</a>
+</div>
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=mohamedReda404&label=People+visited+my+profile&color=green&style=flat-square"/>
+<div align="center">
 
+## Working experience and trainings
 
-</p>
+</div>
 
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<div style="display: flex;" align="center">
+<img style="height: 22px;" alt="Static Badge" src="https://img.shields.io/badge/Frontend_Intern-%40Raisa_Energy_LLC-8A2BE2?style=flat-square&logo=react&color=1c7300">
+<img style="height: 22px;" alt="Static Badge" src="https://img.shields.io/badge/Software_Engineering_Intern-%40Raya_Information_Technology-8A2BE2?style=flat-square&color=1c7300&logo=spring">
+<img style="height: 22px;" alt="Static Badge" src="https://img.shields.io/badge/Frontend_Developer-%40Cairo_Eco_racing_team-8A2BE2?style=flat-square&color=1c7300&logo=firebase">
+<img style="height: 22px;" alt="Static Badge" src="https://img.shields.io/badge/Physics_Teaching_Assistant-%40Abdelmaboud_team-8A2BE2?style=flat-square&color=1c7300&logo=hyperledger">
+</div>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](https://sha.edu.eg/) at [EL Shorouk Academy].
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
-- :student: I’m currently learning `Computer Science` and `Web Development`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1_7B9i-B9gwyXVCqzH9PQvwhJCYqlZV0f/view).
+<br>
 <br>
 
+<div align="center">
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## Technical skills
+
+
+<p align="center" > 
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a  href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## Connect with me 
+
+</div>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/mohamedredaodah89"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/u/MohamedReda3456/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>  
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:mohamedreda.engineer0@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/mohamedReda404"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201090705850"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/mohamed-reda-801b2a297/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<!-- 	<a href="https://www.facebook.com/profile.php?id=100084236323114"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a> -->
+<a href="https://linkedin.com/in/nour-almulhem-1817251b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouralmulhem" height="30" width="40" /></a>
+<a href="https://fb.com/nour.almulhem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nour.almulhem" height="30" width="40" /></a>
+<a href="https://instagram.com/nour.almulhem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nour.almulhem" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/nour_ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nour_ml" height="30" width="40" /></a>
 </p>
 
+<br/>
 
+<div align="center">
 
-## 🛠️ My Skills
+## Contributions
 
+<br>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nouralmulhem&show_icons=true&locale=en&layout=compact&theme=dark" alt="nouralmulhem" /></p>
 
-<p align="center"> 
-  
- 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white">
-   </a>
-</p>
-
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-&emsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white">
-  </a>
-	&emsp;
- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank">
-  <img alt="LINQ" src="https://img.shields.io/badge/LINQ-%23007ACC.svg?style=plastic&logo=dotnet&logoColor=white">
-</a>
-	&emsp;
-<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
-  <img alt="EF Core" src="https://img.shields.io/badge/EF%20Core-%234078C0.svg?style=plastic&logo=dotnet&logoColor=white">
-</a>
-&emsp;
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-  <img alt="SQL Server Database" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
-</a>
-
-&emsp;
-<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0" target="_blank">
-  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%23007ACC.svg?style=plastic&logo=dotnet&logoColor=white">
-</a>
-&emsp;
-<a href="https://en.wikipedia.org/wiki/SOLID" target="_blank">
-  <img alt="SOLID" src="https://img.shields.io/badge/SOLID-%23007ACC.svg?style=plastic&logo=dotnet&logoColor=white">
-</a>
-&emsp;
-<a href="https://en.wikipedia.org/wiki/Software_design" target="_blank">
-  <img alt="Design Principles" src="https://img.shields.io/badge/Design%20Principles-%23007ACC.svg?style=plastic&logo=dotnet&logoColor=white">
-</a>
-
-</p>
-
-
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geeks For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  
-  &emsp;
-  <a href="#"> <img alt="MSSQL Server" src="https://img.shields.io/badge/MSSQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
-</p>
-
- <br>
-
-
-
-
-	
-
-
-	
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nouralmulhem&show_icons=true&locale=en&theme=dark" alt="nouralmulhem" /></p>
+</div>
 
