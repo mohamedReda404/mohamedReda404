@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
 <h4 align="center">
