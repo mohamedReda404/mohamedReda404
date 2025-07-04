@@ -29,7 +29,15 @@
 <h4 align="center">
 As a third-year computer science student, I am skilled in .NET Core and SQL Server, focusing on building user-friendly web applications and efficient databases. I am eager to apply my academic knowledge to realworld projects and continuously learn new technologies to enhance user experiences.
 </h4>
+<br><br>
 
+- :school: I am a `Junior` at [Faculty of Computers & Informatics](https://sha.edu.eg/) at [El Shorouk Academy].
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
+- :student: I’m currently learning `Computer Science` and `Web Development`.
+- :nerd_face: Always `learning new things`.
+
+<br>
 
 ## 💻 Technical Skills
 
