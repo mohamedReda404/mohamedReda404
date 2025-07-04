@@ -97,11 +97,12 @@ As a third-year computer science student, I am skilled in .NET Core and SQL Serv
   <a href="https://www.linkedin.com/in/mohamed-reda-801b2a297/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+	
   <a href="https://codeforces.com/profile/mohamedredaodah89" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/MohamedReda3456/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://leetcode.com/u/MohamedReda3456/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>  
+  
   </a>
   <a href="mailto:mohamedreda.engineer0@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" height="30" width="40"/>
