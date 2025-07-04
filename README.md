@@ -30,7 +30,6 @@
 As a third-year computer science student, I am skilled in .NET Core and SQL Server, focusing on building user-friendly web applications and efficient databases. I am eager to apply my academic knowledge to realworld projects and continuously learn new technologies to enhance user experiences.
 </h4>
 
----
 
 ## 💻 Technical Skills
 
