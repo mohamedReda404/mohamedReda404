@@ -9,9 +9,7 @@
 ## 🧑‍💻 About Me
 
 <h4 align="center">
-Full Stack Developer and third-year Computer Science student, skilled in C#, Java, ASP.NET Core (Web APIs & MVC), Entity Framework Core, and SQL Server.  
-Proficient in OOP, Data Structures, and Algorithms, with hands-on experience in Onion Architecture, Repository Pattern, and JWT Authentication.  
-Passionate about building scalable and secure web applications, and eager to apply academic knowledge in real-world projects within Agile teams.
+As a third-year computer science student, I am skilled in .NET Core and SQL Server, focusing on building user-friendly web applications and efficient databases. I am eager to apply my academic knowledge to realworld projects and continuously learn new technologies to enhance user experiences.
 </h4>
 
 ---
