@@ -106,9 +106,7 @@ As a third-year computer science student, I am skilled in .NET Core and SQL Serv
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon_dotnet.svg" alt="linq" width="40" height="40"/>
 </a>
 
-<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="entity framework" width="40" height="40"/>
-</a>
+
 
 </p>
 
