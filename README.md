@@ -45,6 +45,9 @@ As a third-year computer science student, I am skilled in .NET Core and SQL Serv
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
+	<a href="https://cplusplus.com/doc/tutorial/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+</a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
@@ -75,6 +78,20 @@ As a third-year computer science student, I am skilled in .NET Core and SQL Serv
   <a href="https://angular.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
   </a>
+	
+
+<!-- MVC (ASP.NET MVC Docs) -->
+<a href="https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/ASP.NET_logo_and_wordmark.svg" alt="mvc" width="40" height="40"/>
+</a>
+
+<!-- REST API -->
+<a href="https://restfulapi.net/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="rest api" width="40" height="40"/>
+</a>
+
+
+ 
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
   </a>
@@ -84,6 +101,15 @@ As a third-year computer science student, I am skilled in .NET Core and SQL Serv
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   </a>
+
+  [![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://cplusplus.com/doc/tutorial/)
+[![ASP.NET MVC](https://upload.wikimedia.org/wikipedia/commons/5/5f/ASP.NET_logo_and_wordmark.svg)](https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)
+[![REST API](https://www.vectorlogo.zone/logos/json/json-icon.svg)](https://restfulapi.net/)
+[![LINQ](https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon_dotnet.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
+[![SQL](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)](https://www.w3schools.com/sql/)
+[![Entity Framework](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg)](https://learn.microsoft.com/en-us/ef/core/)
+[![.NET Core](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)](https://learn.microsoft.com/en-us/dotnet/core/introduction)
+
 </p>
 
 </div>
