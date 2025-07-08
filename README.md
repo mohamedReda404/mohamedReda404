@@ -102,13 +102,13 @@ As a third-year computer science student, I am skilled in .NET Core and SQL Serv
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 
-  [![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://cplusplus.com/doc/tutorial/)
-[![ASP.NET MVC](https://upload.wikimedia.org/wikipedia/commons/5/5f/ASP.NET_logo_and_wordmark.svg)](https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)
-[![REST API](https://www.vectorlogo.zone/logos/json/json-icon.svg)](https://restfulapi.net/)
-[![LINQ](https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon_dotnet.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
-[![SQL](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)](https://www.w3schools.com/sql/)
-[![Entity Framework](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg)](https://learn.microsoft.com/en-us/ef/core/)
-[![.NET Core](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)](https://learn.microsoft.com/en-us/dotnet/core/introduction)
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon_dotnet.svg" alt="linq" width="40" height="40"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="entity framework" width="40" height="40"/>
+</a>
 
 </p>
 
