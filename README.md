@@ -46,10 +46,21 @@
 
 ### 🗄️ Databases & Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
+  
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  
+  <!-- .NET Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET Core"/>
+  
+  <!-- Spring -->
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" title="Spring"/>
-  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" title="REST API"/>
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="REST API" width="40" title="RESTful API"/>
+ 
 </p>
 
 ### ⚙️ Tools & Platforms
