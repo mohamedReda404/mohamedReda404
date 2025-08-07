@@ -83,7 +83,7 @@ Practicing Data Structures and Algorithms to improve logical thinking and proble
 
 ## 📘 CS Fundamentals 
 
-|--------------------------
+
 | Data Structures & Algorithms 
 | OOP Principles            
 | Database Fundamentals     
