@@ -46,21 +46,12 @@
 
 ### 🗄️ Databases & Backend
 <p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
-  
-  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  
-  <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  
-  <!-- .NET Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET Core"/>
-  
-  <!-- Spring -->
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" title="Spring"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" title="Spring Boot"/>
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="REST API" width="40" title="RESTful API"/>
- 
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -72,6 +63,54 @@
 </p>
 
 </div>
+
+---
+
+## 📦 RESTful API Projects Showcase
+
+- **Product Management System (ASP.NET Core MVC + EF Core)**
+  - Full CRUD Operations (Create, Read, Update, Delete)
+  - SQL Server Integration
+  - Entity Framework Code-First Migrations
+  - Bootstrap 5 Frontend
+  - Form Validation + Razor Views
+  - Dependency Injection  
+  - 🔗 [GitHub Repo](#) *(ضع الرابط الخاص بالمشروع هنا)*
+
+- **Basic RESTful API (.NET Web API)**
+  - Token Authentication with JWT
+  - Swagger UI Enabled
+  - MySQL/PostgreSQL integration
+  - Repository Pattern & DTOs
+  - Clean architecture
+
+---
+
+## 🧠 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/MohamedReda3456/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" title="LeetCode Profile"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/mohamedredaodah89" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" title="Codeforces Profile"/>
+  </a>
+</p>
+
+Practicing Data Structures and Algorithms to improve logical thinking and problem-solving skills through platforms like **LeetCode** and **Codeforces**.
+
+---
+
+## 📘 CS Fundamentals & Roadmap
+
+| Topic                     | Recommended Courses |
+|--------------------------|---------------------|
+| Data Structures & Algorithms | [Abdul Bari](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ), [FreeCodeCamp DSA](https://www.youtube.com/watch?v=8hly31xKli0) |
+| OOP Principles            | [OOP in C# - Mosh](https://www.youtube.com/watch?v=pTB0EiLXUC8), [Java OOP - Telusko](https://www.youtube.com/watch?v=9V6p9sS9WbI) |
+| Database Fundamentals     | [SQL Basics - BroCode](https://www.youtube.com/watch?v=HXV3zeQKqGY), [DBMS - Gate Smashers](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS) |
+| Operating Systems         | [OS - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhvV3TGRM7B1ryen0z1L3iR) |
+| Computer Networks         | [CN - Gate Smashers](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUkGC8hVvZfpit) |
 
 ---
 
@@ -91,3 +130,4 @@
     <img src="https://img.icons8.com/fluency/48/gmail.png" height="30" width="40"/>
   </a>
 </p>
+
