@@ -14,9 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-<p align="right">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250"/>
-</p>
+
 
 - 🎓 I’m a Junior at [Faculty of Computers & Informatics](https://sha.edu.eg/) - El Shorouk Academy  
 - 👨‍💻 Passionate about solving problems using Software  
