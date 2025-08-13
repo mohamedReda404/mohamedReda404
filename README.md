@@ -1,12 +1,8 @@
 <h1 align="center">Hi, I'm Mohamed Reda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<p align="center" color=red>
    Backend Developer
-  </a>
 </p>
----
-
 ## About Me
 
 I’m a senior at El Shorouk Academy, passionate about .NET Backend development. I enjoy solving problems, practicing competitive programming, and exploring Web Development and Computer Science fundamentals.  
@@ -16,6 +12,7 @@ I’m a senior at El Shorouk Academy, passionate about .NET Backend development.
 C# (OOP, Async/Await, LINQ), .NET Core, ASP.NET Web API, EF Core, SQL/NoSQL, SOLID & Design Patterns, DI, JWT Auth, Unit/Integration Testing, Docker, CI/CD, Logging & Monitoring
 ---
 ## 🧠 Problem Solving
+Solved 300+ problems 
 <p align="center">
   <a href="https://leetcode.com/MohamedReda3456/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" title="LeetCode Profile"/>
