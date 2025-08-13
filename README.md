@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Reda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-red?style=for-the-badge&logo=dot-net" alt="Backend Developer"/>
 </p>
@@ -15,7 +16,9 @@
 
 
 
-## About Me
+## <p align="center">
+  <img src="https://img.shields.io/badge/About%20Me-yellow?style=for-the-badge" alt="About Me"/>
+  </P>
 
 I’m a senior at El Shorouk Academy, passionate about .NET Backend development. I enjoy solving problems, practicing competitive programming, and exploring Web Development and Computer Science fundamentals.  
 
