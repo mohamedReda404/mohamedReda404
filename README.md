@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Backend+Developer;CS+Student;Competitive+Programmer;Always+Learning+New+Things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=Backend+Developer+New+Things">
   </a>
 </p>
 
@@ -12,53 +12,34 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-
-
-- 🎓 I’m a Junior at [Faculty of Computers & Informatics](https://sha.edu.eg/) - El Shorouk Academy  
-- 👨‍💻 Passionate about solving problems using Software  
-- 💻 Competitive Programmer at `Codeforces`, `Leetcode`  
-- 🌱 Currently learning `Web Development` and `CS Fundamentals`  
-- 🚀 Always eager to explore new technologies  
+I’m a senior at El Shorouk Academy, passionate about .NET Backend development. I enjoy solving problems, practicing competitive programming, and exploring Web Development and Computer Science fundamentals.  
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 <div align="center">
 
-### 🧠 Languages & Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/ASP.NET_logo_and_wordmark.svg" width="40" title="ASP.NET MVC"/>
-</p>
+### Core & Framework:
+C# (Advanced OOP, Generics, Delegates, Events, Async/Await), .NET 6/7/8, ASP.NET Core Web API (RESTful API, Controllers, Middleware), Entity Framework Core (Migrations, Relationships, LINQ queries)
 
-### 🗄️ Databases & Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET Core"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" title="Spring Boot"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon_dotnet.svg" width="40" title="LINQ"/>
-  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="REST API" width="40" title="RESTful API"/>
-</p>
+### Architecture & Design:
+SOLID Principles, Clean Code, Design Patterns (Repository, Unit of Work, Singleton, Factory), Layered Architecture / N-Tier, Dependency Injection / Inversion of Control
 
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure"/>
-</p>
+### Database & Data:
+SQL Server, PostgreSQL, MySQL, Stored Procedures, Transactions, Caching (Redis), Query Optimization
+
+### Security & Authentication:
+JWT Authentication & Authorization, ASP.NET Identity, Role-based Access, Data Validation, Error Handling
+
+### Testing & DevOps:
+Unit Testing (xUnit / NUnit), Integration Testing, Docker & Docker Compose, CI/CD with GitHub Actions / Azure DevOps
+
+### Advanced Tools:
+Background Jobs (Hangfire), Message Brokers (RabbitMQ / Kafka), Logging & Monitoring (Serilog, Health Checks)
+
 
 </div>
 
@@ -78,17 +59,6 @@
 </p>
 
 Practicing Data Structures and Algorithms to improve logical thinking and problem-solving skills through platforms like **LeetCode** and **Codeforces**.
-
----
-
-## 📘 CS Fundamentals 
-
-
-| Data Structures & Algorithms 
-| OOP Principles            
-| Database Fundamentals     
-| Operating Systems        
-| Computer Networks        
 
 ---
 
