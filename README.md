@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Mohamed Reda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Developer-red?style=for-the-badge&logo=dot-net" alt="Backend Developer"/>
+</p>
 
 <p align="center" style="display: inline-flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/mohamed-reda-801b2a297/" target="_blank">
