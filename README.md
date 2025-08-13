@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/About%20Me-yellow?style=for-the-badge" alt="About Me"/>
   </P>
 
-I’m a Fainal Year CS Student at El Shorouk Academy, passionate about .NET Backend development. I enjoy solving problems, practicing competitive programming, and exploring Web Development and Computer Science fundamentals.  
+I’m a Final Year CS Student at El Shorouk Academy, passionate about .NET Backend development. I enjoy solving problems, practicing competitive programming, and exploring Web Development and Computer Science fundamentals.  
 
 ---
 ## <p align="center">
