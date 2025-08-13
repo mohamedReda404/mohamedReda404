@@ -18,7 +18,6 @@ C# (OOP, Async/Await, LINQ), .NET Core, ASP.NET Web API, EF Core, SQL/NoSQL, SOL
 ---
 ## 🧠 Problem Solving
 Solved 300+ problems 
-<p align="center">
   <a href="https://leetcode.com/MohamedReda3456/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" title="LeetCode Profile"/>
   </a>
@@ -26,7 +25,7 @@ Solved 300+ problems
   <a href="https://codeforces.com/profile/mohamedredaodah89" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" title="Codeforces Profile"/>
   </a>
-</p>
+
 
 ## 📫 Connect with Me
 <p align="center">
