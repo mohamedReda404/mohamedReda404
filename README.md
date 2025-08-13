@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed Reda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<p align="center">
+<p align="center" style="display: inline-flex;>
   <img src="https://img.shields.io/badge/Backend%20Developer-red?style=for-the-badge&logo=dot-net" alt="Backend Developer"/>
 </p>
 
@@ -23,12 +23,15 @@
 I’m a senior at El Shorouk Academy, passionate about .NET Backend development. I enjoy solving problems, practicing competitive programming, and exploring Web Development and Computer Science fundamentals.  
 
 ---
-## Technical Skills
-
+## <p align="center">
+  <img src="https://img.shields.io/badge/Technical%20Skills-yellow?style=for-the-badge" alt="Technical Skills"/>
+      </P>
 C# (OOP, Async/Await, LINQ), .NET Core, ASP.NET Web API, EF Core, SQL/NoSQL, SOLID & Design Patterns, DI, JWT Auth, Unit/Integration Testing, Docker, CI/CD, Logging & Monitoring
 
 ---
-## 🧠 Problem Solving
+## <p align="center">
+<img src="https://img.shields.io/badge/Problem%20Solving-yellow?style=for-the-badge" alt="Problem Solving"/>
+</p>
 Solved 300+ problems 
   <a href="https://leetcode.com/MohamedReda3456/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" title="LeetCode Profile"/>
