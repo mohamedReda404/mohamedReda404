@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Mohamed Reda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<p align="center" style="color: red;">
+<p style="text-align: center; color: red;">
   Backend Developer
 </p>
+
 
 ## About Me
 
