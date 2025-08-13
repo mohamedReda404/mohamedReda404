@@ -1,15 +1,18 @@
 <h1 align="center">Hi, I'm Mohamed Reda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<p align="center" color=red>
-   Backend Developer
+<p align="center" style="color: red;">
+  Backend Developer
 </p>
+
 ## About Me
 
 I’m a senior at El Shorouk Academy, passionate about .NET Backend development. I enjoy solving problems, practicing competitive programming, and exploring Web Development and Computer Science fundamentals.  
 
 ---
 ## Technical Skills
+
 C# (OOP, Async/Await, LINQ), .NET Core, ASP.NET Web API, EF Core, SQL/NoSQL, SOLID & Design Patterns, DI, JWT Auth, Unit/Integration Testing, Docker, CI/CD, Logging & Monitoring
+
 ---
 ## 🧠 Problem Solving
 Solved 300+ problems 
