@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=Backend+Developer+New+Things">
+   Backend Developer
   </a>
 </p>
 ---
@@ -12,14 +12,10 @@
 I’m a senior at El Shorouk Academy, passionate about .NET Backend development. I enjoy solving problems, practicing competitive programming, and exploring Web Development and Computer Science fundamentals.  
 
 ---
-
 ## Technical Skills
-
-Backend .NET Skills:
 C# (OOP, Async/Await, LINQ), .NET Core, ASP.NET Web API, EF Core, SQL/NoSQL, SOLID & Design Patterns, DI, JWT Auth, Unit/Integration Testing, Docker, CI/CD, Logging & Monitoring
 ---
 ## 🧠 Problem Solving
-
 <p align="center">
   <a href="https://leetcode.com/MohamedReda3456/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" title="LeetCode Profile"/>
@@ -29,7 +25,7 @@ C# (OOP, Async/Await, LINQ), .NET Core, ASP.NET Web API, EF Core, SQL/NoSQL, SOL
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" title="Codeforces Profile"/>
   </a>
 </p>
----
+
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-reda-801b2a297/" target="_blank">
