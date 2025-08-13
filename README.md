@@ -1,8 +1,14 @@
 <h1 align="center">Hi, I'm Mohamed Reda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Developer-red?style=for-the-badge&logo=dot-net" alt="Backend Developer"/>
+<p align="center" style="display: inline-flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/mohamed-reda-801b2a297/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="25" />
+  </a>
+  <a href="mailto:mohamedreda.engineer0@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" height="25" width="25"/>
+  </a>
 </p>
+
 
 
 
@@ -25,15 +31,4 @@ Solved 300+ problems
   <a href="https://codeforces.com/profile/mohamedredaodah89" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" title="Codeforces Profile"/>
   </a>
-
-
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-reda-801b2a297/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="mailto:mohamedreda.engineer0@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" height="30" width="40"/>
-  </a>
-</p>
 
